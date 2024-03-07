@@ -1,3 +1,38 @@
+# Archimedean Spiral Script for Adobe Illustrator
+
+This script enables the creation of an Archimedean spiral in Adobe Illustrator with customizable parameters: initial radius, radius increment, number of turns, and total number of points for the spiral.
+
+## How to Use
+
+1. Copy the script into your Adobe Illustrator Scripts folder. Typically, this is `C:\Program Files\Adobe\Adobe Illustrator [Your Version]\Presets\[Language]\Scripts` on Windows or `/Applications/Adobe Illustrator [Your Version]/Presets/[Language]/Scripts` on macOS.
+2. Restart Adobe Illustrator if it was already open.
+3. Open the document in which you want to create the spiral.
+4. Go to `File` > `Scripts` > `Find your script`.
+5. Enter the desired parameters in the dialog box that appears and click "OK".
+
+## Parameters
+
+- **Initial Radius (px):** The starting radius of the spiral in pixels.
+- **Radius Increment:** The value by which the radius will increase after each full turn.
+- **Number of Turns:** The total number of turns of the spiral.
+- **Total Number of Points:** Determines the smoothness of the spiral; the more points, the smoother the spiral.
+
+## Example
+
+![Example of Archimedean Spiral](https://github.com/alexice92/adobe-illustrator-spiral/raw/master/images/example-spiral-archimedes.png)
+
+## Contributing
+
+Contributions to the project are welcome. If you would like to contribute improvements, please fork the repository, make your changes, and submit a pull request.
+
+## License
+
+[MIT](https://github.com/alexice92/adobe-illustrator-spiral/raw/master/LICENSE)
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 # Скрипт Спирали Архимеда для Adobe Illustrator
 
 Этот скрипт позволяет создавать спираль Архимеда в Adobe Illustrator с заданными параметрами: начальный радиус, приращение радиуса, количество витков и общее количество точек спирали.
