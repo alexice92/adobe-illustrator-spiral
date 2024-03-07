@@ -19,7 +19,7 @@ This script enables the creation of an Archimedean spiral in Adobe Illustrator w
 
 ## Example
 
-![Example of Archimedean Spiral](https://github.com/alexice92/adobe-illustrator-spiral/raw/master/images/example-spiral-archimedes.png)
+![Example of Archimedean Spiral](https://github.com/alexice92/adobe-illustrator-spiral/raw/master/images/example-spiral-archimedes2.png)
 
 ## Contributing
 
@@ -54,7 +54,7 @@ Contributions to the project are welcome. If you would like to contribute improv
 
 ## Пример
 
-![Пример спирали Архимеда](https://github.com/alexice92/adobe-illustrator-spiral/raw/master/images/example-spiral-archimedes.png)
+![Пример спирали Архимеда](https://github.com/alexice92/adobe-illustrator-spiral/raw/master/images/example-spiral-archimedes2.png)
 
 ## Вклад в проект
 
