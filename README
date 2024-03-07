@@ -19,9 +19,7 @@
 
 ## Пример
 
-![Пример спирали Архимеда](https://github.com/alexice92/adobe-illustrator-spiral/raw/master/Spiral-Archimedes.png)
-
-> Замените `example-spiral.png` на изображение вашей спирали, если хотите показать пример.
+![Пример спирали Архимеда](https://github.com/alexice92/adobe-illustrator-spiral/blob/master/images/example-spiral-archimedes.png)
 
 ## Вклад в проект
 
@@ -29,6 +27,4 @@
 
 ## Лицензия
 
-[MIT](LICENSE)
-
-> Замените `LICENSE` на ссылку на ваш файл лицензии, если вы добавили его в репозиторий.
+[MIT](https://github.com/alexice92/adobe-illustrator-spiral/blob/master/LICENSE)
